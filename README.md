@@ -158,3 +158,9 @@ Pull requests são bem-vindos! Para mudanças maiores, abra uma issue primeiro.
 
 Deixe uma estrela no repositório!
 
+VEJA os vídeos do canal @RobertoSantosScripts em:
+https://www.robertocsantosrj.eti.br/computacao/videos
+
+
+
+
